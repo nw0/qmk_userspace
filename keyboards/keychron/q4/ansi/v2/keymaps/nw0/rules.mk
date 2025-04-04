@@ -1,0 +1,9 @@
+VIA_ENABLE = yes
+
+MOUSEKEY_ENABLE = no
+# Disable NKRO for KVM compatibility
+NKRO_ENABLE = no
+
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
+RGB_MATRIX_ENABLE = no
